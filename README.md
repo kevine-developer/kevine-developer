@@ -1,68 +1,35 @@
 <div align="center">
-
 #  Kevine developer
-
 ### Développeur Fullstack | Performance • Éco-conception • Expérience Utilisateur
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvesnarsonkevine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://kevine.dev](https://kevine-portfolio.vercel.app/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_en_galere)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dev_en_galere)
-
 </div>
 
 ---
-
 ##  À Propos – Le Développeur Responsable
-
 Passionné par la création d'applications web **performantes** et **durables**. Mon approche combine excellence technique et responsabilité écologique :
-
 - ** Performance Technique** – Solutions modernes avec SSR/SSG, code optimisé et architecture scalable
 - ** Éthique & Durabilité** – Intégration de la sobriété numérique dès la conception pour minimiser l'empreinte environnementale
 
 > *Construire le web de demain : efficace pour l'utilisateur, respectueux de la planète.*
-
 ---
-
 ##  Stack Technique
-
 ### **Frontend & Architecture**
-
 ```
   React • Next.js • Astro.js • React Native
 ```
-
-| Technologie | Expertise |
-|------------|-----------|
-| **React** | Framework principal pour interfaces dynamiques |
-| **Next.js** | SSR/SSG pour performance & SEO optimaux |
-| **Astro.js** | Sites ultra-légers et rapides |
-| **React Native** | Applications mobiles multiplateformes |
-
 ### **Backend & APIs**
-
 ```
-  PHP • Laravel
-  Node.js • NestJS (TypeScript)
-  PostgreSQL • MySQL • MongoDB
-  REST • GraphQL
+  PHP • Laravel • Node.js • NestJS (TypeScript) •PostgreSQL • MySQL • MongoDB • REST • GraphQL
 ```
-
-| Technologie | Usage |
-|------------|-------|
-| **Laravel** | Backend robuste et structuré |
-| **NestJS** | Architecture TypeScript moderne |
-| **PostgreSQL/MySQL** | Bases relationnelles performantes |
-| **MongoDB** | Données NoSQL flexibles |
-
 ### **DevOps & Qualité**
-
 ```
   Docker • Git • GitHub  • GitLab • CI/CD • VSCode • Linux • Windows • macOS
 ```
 ---
 ##  Projets Phares
-
 ### **KantoMG : L'Éducation Civique Mobile**
 Application mobile éducative et plateforme citoyenne avec modules interactifs sur les droits, l'écologie et l'engagement citoyen.
 ```
@@ -85,37 +52,21 @@ Role: Créateur de Contenu (Scripting, Montage, Stratégie)
 
 Je ne recherche pas le code "parfait", mais le code :
 
--  **Compréhensible** – Documentation claire et structure logique
--  **Maintenable** – Évolutif sans dette technique
--  **Responsable** – Impact énergétique minimisé
+**Compréhensible**: Documentation claire et structure logique - **Maintenable**:Évolutif sans dette technique -  **Responsable**: Impact énergétique minimisé
 
 **Principe fondamental** : *Moins de ressources, plus de valeur*
----
-
-##  GitHub Stats
-<div align="center">
-</div>
-
----
 ##  Contact & Collaboration
 Toujours ouvert aux échanges sur la tech, l'éco-conception ou de nouvelles opportunités !
 
 <div align="center">
-  
-| Plateforme | Lien |
-|-----------|------|
-|  **LinkedIn** | [kevine-linkedin](https://www.linkedin.com/in/yvesnarsonkevine) |
-|  **Portfolio** | [kevine.developer](https://kevine-portfolio.vercel.app/) |
-|  **Instagram** | [@dev_en_galere](https://www.instagram.com/dev_en_galere) |
-|  **Medium** | [@dev_en_galere](https://medium.com/@dev_en_galere) |
+
+**LinkedIn** :[kevine-linkedin](https://www.linkedin.com/in/yvesnarsonkevine) - 
+**Portfolio** : [kevine.developer](https://kevine-portfolio.vercel.app/) - 
+**Instagram** : [@dev_en_galere](https://www.instagram.com/dev_en_galere) - 
+**Medium** : [@dev_en_galere](https://medium.com/@dev_en_galere) 
   
 </div>
 
----
 <div align="center">
-
-`#Fullstack` `#ReactJS` `#NextJS` `#Laravel` `#EcoConception` `#TypeScript` `#WebPerformance` `#GreenIT`
----
-
  *Si vous trouvez mon profil intéressant, n'hésitez pas à laisser une étoile !*
 </div>
