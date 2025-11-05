@@ -17,7 +17,6 @@ Passionné par la création d'applications web **performantes** et **durables**.
 - ** Performance Technique** – Solutions modernes avec SSR/SSG, code optimisé et architecture scalable
 - ** Éthique & Durabilité** – Intégration de la sobriété numérique dès la conception pour minimiser l'empreinte environnementale
 
-> *Construire le web de demain : efficace pour l'utilisateur, respectueux de la planète.*
 ---
 ##  Stack Technique
 ### **Frontend & Architecture**
