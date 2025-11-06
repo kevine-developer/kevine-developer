@@ -1,6 +1,6 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Kevine%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+    
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Kevine%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 ### Développeur Fullstack | Performance • Éco-conception • Expérience Utilisateur
 
