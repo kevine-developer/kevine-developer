@@ -54,7 +54,7 @@ Développeur passionné par la création d'applications web **performantes** et 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 </div>
 
 ---
@@ -68,41 +68,6 @@ Développeur passionné par la création d'applications web **performantes** et 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevine-developer&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
-## Projets Phares
-
-<table>
-<tr>
-<td width="50%">
-
-### KantoMG : L'Éducation Civique Mobile
-
-Application mobile éducative et plateforme citoyenne avec modules interactifs sur les droits, l'écologie et l'engagement citoyen.
-
-**Stack** : React Native • NestJS • TypeScript  
-**Rôle** : Architecture Backend & Développement Mobile
-
-**Impact** : Démocratisation de l'éducation civique via le mobile
-
-</td>
-<td width="50%">
-
-### DevEnGalère : Le Côté Fun de la Tech
-
-Marque de contenu tech humoristique et pédagogique pour démystifier le développement web.
-
-**Plateformes** : Instagram • TikTok • YouTube • LinkedIn • Medium  
-**Rôle** : Créateur de Contenu
-
-**Impact** : Rendre la tech accessible et divertissante
-
-</td>
-</tr>
-</table>
-
----
 
 ## Philosophie de Développement
 
