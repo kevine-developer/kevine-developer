@@ -95,5 +95,4 @@ Développeur passionné par la création d'applications web **performantes** et 
 [![Medium](https://img.shields.io/badge/Medium-Lisez--mes--articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@dev_en_galere)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
 </div>
