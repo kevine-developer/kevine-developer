@@ -53,7 +53,6 @@ Développeur passionné par la création d'applications web **performantes** et 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 </div>
 
@@ -88,7 +87,8 @@ Développeur passionné par la création d'applications web **performantes** et 
 ### Ouvert aux collaborations et opportunités !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactez--moi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yvesnarsonkevine)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrez--mon--travail-000000?style=for-the-badge&logo=About.me)](https://kevine-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mes--travails-000000?style=for-the-badge&logo=About.me)](https://kevine-portfolio.vercel.app/)
+[![DevEnGalère](https://img.shields.io/badge/DevEnGalère-Mes--galères-000000?style=for-the-badge&logo=About.me)](https://devengalere.fr/)
 [![Instagram](https://img.shields.io/badge/Instagram-Suivez--moi-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_en_galere)
 [![Medium](https://img.shields.io/badge/Medium-Lisez--mes--articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@dev_en_galere)
 
