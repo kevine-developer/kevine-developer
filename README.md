@@ -63,9 +63,7 @@ Développeur passionné par la création d'applications web **performantes** et 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevine-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevine-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevine-developer&theme=tokyo-night&hide_border=true&area=true" />
+<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevine-developer&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
